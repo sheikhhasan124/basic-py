@@ -11,3 +11,5 @@ x=5
 y="bangladesh"
 print(x,x,y)
  """
+carName = "tesla lover"
+print(carName)
