@@ -9,6 +9,8 @@ print(createList) """
 
 # -------- access list item ----------
 froots = ["apple", "banana", "cherry","kodbel","peyara","cobeda"]
+
+
 # print(froots[1])
 # print(froots[-1])
 # print(froots[1:4])
@@ -18,5 +20,16 @@ froots = ["apple", "banana", "cherry","kodbel","peyara","cobeda"]
 #     print('yes')
 
 #------- Change List Items ---------
-froots[1]="baannu"
-print(froots)
+
+# froots[1]="baannu"
+# print(froots)
+
+# froots.insert(2,"fullkopi")
+# print(froots)
+
+# ------- add list items ---------
+""" froots.append("orrange")
+print(froots) """
+#------- sort list --------
+""" froots.sort()
+print(froots) """
