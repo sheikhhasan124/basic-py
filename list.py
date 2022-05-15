@@ -6,3 +6,17 @@ print(len(froots)) """
 # list() constractor
 """ createList = list(("apple","bannana","cherry"))
 print(createList) """
+
+# -------- access list item ----------
+froots = ["apple", "banana", "cherry","kodbel","peyara","cobeda"]
+# print(froots[1])
+# print(froots[-1])
+# print(froots[1:4])
+
+# Check if Item Exists
+# if "apple" in froots:
+#     print('yes')
+
+#------- Change List Items ---------
+froots[1]="baannu"
+print(froots)
