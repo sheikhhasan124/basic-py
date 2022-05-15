@@ -83,10 +83,10 @@ else :
 
 persone()   """
 
-def persone():
-    print('hello anik')
+""" def persone(name):
+    print('hello',name)
 
-persone()    
+persone('anik')   """  
 
 """ def num_func(num1,num2):
     result = num1 + num2
