@@ -55,5 +55,42 @@ print(desc.format(age)) """
 """ a = "hello"
 print(a[2:4]) """
 
-a= "hello, word"
-print(a.split(","))
+""" a= "hello, word"
+print(a.split(",")) """
+
+""" name = input('Please enter name:')
+print(name) """
+""" 
+a=8
+b=4
+print('result',a+b) """
+
+# comparision ---------------
+""" num1= 10
+num2=20
+
+print(num1<=num2)
+
+if num1>num2:
+    print('true')
+else :
+    print('false')
+ """
+# function ------------------
+
+""" def persone():
+    print('hello anik')
+
+persone()   """
+
+def persone():
+    print('hello anik')
+
+persone()    
+
+""" def num_func(num1,num2):
+    result = num1 + num2
+    return result
+
+total = num_func(2,2)    
+print(total) """
