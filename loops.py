@@ -9,10 +9,25 @@ for n in fruits:
 """ for n in range(5):
     print(n) """
 
-    #----------nested loops ---------------
+    #----------nested loops 
 """ adj = ["red", "big", "tasty"]
 fruits = ["apple", "banana", "cherry"]
 for n in adj:
        for m in fruits:
            print(n,m)
  """
+
+ #-----------While Loops--------------
+
+""" i = 1
+while i <6:
+     print(i)
+     i +=1 """
+
+""" n = ["hablu","dublu","pablu","cablu"]
+
+i=0
+m = len(n)
+while i < m:
+    print(n[i])
+    i+=1 """
