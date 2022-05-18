@@ -31,3 +31,6 @@ m = len(n)
 while i < m:
     print(n[i])
     i+=1 """
+x = input("your first name:")    
+y = input("your last name:")    
+print('your full name is',x + ' '+ y)
