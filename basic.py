@@ -94,3 +94,8 @@ persone('anik')   """
 
 total = num_func(2,2)    
 print(total) """
+
+# input ---------
+
+name = input('please name:')
+print("user name is" + name)
