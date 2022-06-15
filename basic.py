@@ -97,5 +97,9 @@ print(total) """
 
 # input ---------
 
-name = input('please name:')
-print("user name is" + name)
+""" name = input('please name:')
+print("user name is", name) """
+
+def function():
+    print('hello')
+function()
