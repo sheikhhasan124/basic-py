@@ -100,6 +100,18 @@ print(total) """
 """ name = input('please name:')
 print("user name is", name) """
 
-def function():
-    print('hello')
-function()
+# def function():
+#     print('hello')
+# function()
+
+import re
+
+#Check if the string starts with "The" and ends with "Spain":
+
+txt = "The rain in Spain"
+x = re.search("^The.*Spain$", txt)
+
+if x:
+  print("YES! We have a match!")
+else:
+  print("No match")
